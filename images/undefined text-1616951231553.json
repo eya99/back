@@ -1,0 +1,40 @@
+{
+    "tables": [
+        {
+            "name": "ll",
+            "x": 0,
+            "y": 500,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "mm",
+            "x": 65,
+            "y": 145,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "x": "",
+            "y": "",
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        }
+    ]
+}

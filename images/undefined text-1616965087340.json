@@ -1,0 +1,40 @@
+{
+    "tables": [
+        {
+            "name": "okk",
+            "x": 10,
+            "y": 2,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "okkff",
+            "x": 0,
+            "y": 500,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "x": 209,
+            "y": 396,
+            "columns": [
+                {
+                    "name": "okff",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        }
+    ]
+}

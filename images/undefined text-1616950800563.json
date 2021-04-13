@@ -1,0 +1,28 @@
+{
+    "tables": [
+        {
+            "name": "pl",
+            "x": 0,
+            "y": 500,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "okk",
+            "x": 104,
+            "y": 89,
+            "columns": [
+                {
+                    "name": "kkk",
+                    "datatype": "INT",
+                    "primaryKey": true
+                }
+            ]
+        }
+    ]
+}

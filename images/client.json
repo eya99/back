@@ -1,0 +1,78 @@
+{
+  "dbName": "app",
+  "dbType": "MySql",
+  "tables": [
+    {
+      "id": "45ff61",
+      "name": "client",
+      "x": 58,
+      "y": 681,
+      "columns": [
+        {
+          "id": "8e2118",
+          "name": "idusr",
+          "datatype": "String",
+          "primaryKey": true,
+          "required": true,
+          "taille": 25
+        },
+        {
+          "id": "9961e9",
+          "name": "username",
+          "datatype": "String",
+          "primaryKey": "",
+          "required": true,
+          "taille": 255
+        },
+        {
+          "id": "5bbc7f",
+          "name": "phone",
+          "datatype": "String",
+          "primaryKey": "",
+          "required": true,
+          "taille": 255
+        }
+      ]
+    },
+    {
+      "id": "fb4dca",
+      "name": "project",
+      "x": 436,
+      "y": 1072,
+      "columns": [
+        {
+          "id": "25ec03",
+          "name": "id",
+          "datatype": "String",
+          "primaryKey": true,
+          "required": true,
+          "taille": 25
+        },
+        {
+          "id": "6f49fb",
+          "name": "name",
+          "datatype": "String",
+          "primaryKey": "",
+          "required": true,
+          "taille": 255
+        },
+        {
+          "id": "8a8c2e",
+          "name": "user_id",
+          "datatype": "String",
+          "primaryKey": "",
+          "required": true,
+          "taille": 255
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "tablesource": "client",
+      "tabletarget": "project",
+      "source": "8e2118",
+      "target": "8a8c2e"
+    }
+  ]
+} 

@@ -1,0 +1,28 @@
+{
+    "tables": [
+        {
+            "name": "mm",
+            "x": 0,
+            "y": 500,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "mlm",
+            "x": 24,
+            "y": 348,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        }
+    ]
+}

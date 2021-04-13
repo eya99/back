@@ -1,0 +1,28 @@
+{
+    "tables": [
+        {
+            "name": "ll",
+            "x": 0,
+            "y": 500,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "lmm",
+            "x": 10,
+            "y": 56,
+            "columns": [
+                {
+                    "name": "k",
+                    "datatype": "INT",
+                    "primaryKey": ""
+                }
+            ]
+        }
+    ]
+}

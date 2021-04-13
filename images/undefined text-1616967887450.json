@@ -1,0 +1,36 @@
+{
+    "dbName": "mm",
+    "dbType": "MongoDB",
+    "tables": [
+        {
+            "name": "mm",
+            "x": 0,
+            "y": 500,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "ll",
+            "x": 41,
+            "y": 117,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "source": "",
+            "target": ""
+        }
+    ]
+}

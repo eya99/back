@@ -1,0 +1,28 @@
+{
+    "tables": [
+        {
+            "name": "",
+            "x": "",
+            "y": "",
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "x": 0,
+            "y": 125,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        }
+    ]
+}

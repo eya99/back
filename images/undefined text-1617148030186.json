@@ -1,0 +1,78 @@
+{
+    "dbName": "app",
+    "dbType": "MySql",
+    "tables": [
+        {
+            "id": "45ff61",
+            "name": "client",
+            "x": 61,
+            "y": 308,
+            "columns": [
+                {
+                    "id": "8e2118",
+                    "name": "idusr",
+                    "datatype": "INT",
+                    "primaryKey": true,
+                    "required": null,
+                    "taille": null
+                },
+                {
+                    "id": "9961e9",
+                    "name": "username",
+                    "datatype": "VARCHAR",
+                    "primaryKey": "",
+                    "required": null,
+                    "taille": null
+                },
+                {
+                    "id": "5bbc7f",
+                    "name": "phone",
+                    "datatype": "INT",
+                    "primaryKey": "",
+                    "required": null,
+                    "taille": null
+                }
+            ]
+        },
+        {
+            "id": "fb4dca",
+            "name": "project",
+            "x": 68,
+            "y": 816,
+            "columns": [
+                {
+                    "id": "25ec03",
+                    "name": "id",
+                    "datatype": "INT",
+                    "primaryKey": true,
+                    "required": null,
+                    "taille": null
+                },
+                {
+                    "id": "6f49fb",
+                    "name": "name",
+                    "datatype": "VARCHAR",
+                    "primaryKey": "",
+                    "required": null,
+                    "taille": null
+                },
+                {
+                    "id": "8a8c2e",
+                    "name": "user_id",
+                    "datatype": "INT",
+                    "primaryKey": "",
+                    "required": null,
+                    "taille": null
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "tablesource": null,
+            "tabletarget": null,
+            "source": "8e2118",
+            "target": "8a8c2e"
+        }
+    ]
+}

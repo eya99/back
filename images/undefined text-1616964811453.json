@@ -1,0 +1,45 @@
+{
+    "tables": [
+        {
+            "name": "hhhh",
+            "x": 21,
+            "y": 464,
+            "columns": [
+                {
+                    "name": "xxxxxcccc",
+                    "datatype": "INT",
+                    "primaryKey": true
+                }
+            ]
+        },
+        {
+            "name": "ooooooo",
+            "x": 45,
+            "y": 0,
+            "columns": [
+                {
+                    "name": "dsdazdaz",
+                    "datatype": "INT",
+                    "primaryKey": true
+                },
+                {
+                    "name": "okok",
+                    "datatype": "VARCHAR",
+                    "primaryKey": false
+                }
+            ]
+        },
+        {
+            "name": "",
+            "x": 255,
+            "y": 384,
+            "columns": [
+                {
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": ""
+                }
+            ]
+        }
+    ]
+}

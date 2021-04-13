@@ -1,0 +1,62 @@
+{
+    "dbName": "appl",
+    "dbType": "MongoDB",
+    "tables": [
+        {
+            "id": "45ff61",
+            "name": "client",
+            "x": 0,
+            "y": 0,
+            "columns": [
+                {
+                    "id": "8e2118",
+                    "name": "id",
+                    "datatype": "INT",
+                    "primaryKey": true,
+                    "required": null,
+                    "taille": null
+                },
+                {
+                    "id": "9961e9",
+                    "name": "username",
+                    "datatype": "VARCHAR",
+                    "primaryKey": "",
+                    "required": null,
+                    "taille": null
+                },
+                {
+                    "id": "5bbc7f",
+                    "name": "phone",
+                    "datatype": "INT",
+                    "primaryKey": "",
+                    "required": null,
+                    "taille": null
+                }
+            ]
+        },
+        {
+            "id": "cb0d6d",
+            "name": "",
+            "x": "",
+            "y": "",
+            "columns": [
+                {
+                    "id": "793642",
+                    "name": "",
+                    "datatype": "",
+                    "primaryKey": "",
+                    "required": "",
+                    "taille": ""
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "sparent": null,
+            "tparent": null,
+            "source": "8e2118",
+            "target": "793642"
+        }
+    ]
+}

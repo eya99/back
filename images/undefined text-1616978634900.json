@@ -1,0 +1,44 @@
+{
+    "dbName": "pkk",
+    "dbType": "MongoDB",
+    "tables": [
+        {
+            "name": "ffsd",
+            "x": 145,
+            "y": 0,
+            "columns": [
+                {
+                    "name": "ok",
+                    "datatype": "INT",
+                    "primaryKey": true,
+                    "required": "Required",
+                    "taille": 4
+                }
+            ]
+        },
+        {
+            "name": "ff",
+            "x": 0,
+            "y": 253,
+            "columns": [
+                {
+                    "name": "okk",
+                    "datatype": "INT",
+                    "primaryKey": true,
+                    "required": "Required",
+                    "taille": 1
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "source": "",
+            "target": ""
+        },
+        {
+            "source": "t0c0",
+            "target": "t1c0"
+        }
+    ]
+}
